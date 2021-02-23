@@ -30,6 +30,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Depth: 1
+    - _Displacement: 0.74
+    - _NormalStrength: 0.872
+    - _Smoothness: 0.5
     - _Strength: 0.229
     m_Colors:
     - _DeepColor: {r: 0.012459949, g: 0.44719464, b: 0.5283019, a: 0}
